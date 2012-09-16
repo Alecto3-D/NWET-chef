@@ -1,0 +1,13 @@
+ {
+      "id": "va7ziz",
+      "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAnBAngZ6mfN09kmjyMdI4V93UiYovttashWBXWGFoCIQuRDggLqsZ3MoBypwSCpGSmN192qKrW3kUUXZIBBCYY3+5IWyYzqebJ+EiJ9jgYv378u0b/S9F8b06HMI2KPvAMT7+RTqdo3O8iBbExvC4CPYpl6DYTgPXeA97ewQY5A7qh2mL3EAVsrLQABnMHzPFTAsdc6eoqK+0wHILnB7yfyFnuZLfYjUPFXUaTgPKLhvmb3o2Wzs7LS1M325ydq9XKGU3d8DLUDAW2zWFhFLEyAkWPHOPydBLuYLt+hvHyhfxQLvnawtaGM6lPBUqrkxvSXVmnwhHeQ/1Y8Fm2zweQw== kevin@indigo",
+      "password": "$1$d...HgH0",
+      "groups": [ "sysadmin", "dba", "devops" ],
+      "uid": 2001,
+      "shell": "\/bin\/bash",
+      "comment": "BOFH",
+      "nagios": {
+        "email": "janfishan+github@sourceforge.net"
+      },
+      "openid": "bofh.myopenid.com"
+    }
